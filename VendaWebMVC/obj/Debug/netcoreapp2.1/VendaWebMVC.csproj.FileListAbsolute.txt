@@ -1,0 +1,97 @@
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.AssemblyInfoInputs.cache
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.AssemblyInfo.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.csproj.CoreCompileInputs.cache
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.RazorAssemblyInfo.cache
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.RazorAssemblyInfo.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\VendaWebMVC.deps.json
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\VendaWebMVC.runtimeconfig.json
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\VendaWebMVC.runtimeconfig.dev.json
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\VendaWebMVC.dll
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\VendaWebMVC.pdb
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\VendaWebMVC.Views.dll
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\VendaWebMVC.Views.pdb
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.TagHelpers.input.cache
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.TagHelpers.output.cache
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.RazorCoreGenerate.cache
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Create.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Delete.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Details.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Edit.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Index.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Vendedores\Create.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Vendedores\Delete.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Vendedores\Detalhe.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Vendedores\Index.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.RazorTargetAssemblyInfo.cache
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.RazorTargetAssemblyInfo.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.Views.pdb
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.dll
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.pdb
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.genruntimeconfig.cache
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.csproj.CopyComplete
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Vendedores\Editar.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.csprojAssemblyReference.cache
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistroVendas\Index.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistroVendas\BuscaSimples.cshtml.g.cs
+C:\Projeto Estudo C#\Projetos\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistroVendas\BuscaAgrupada.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\appsettings.json
+C:\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\VendaWebMVC.deps.json
+C:\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\VendaWebMVC.runtimeconfig.json
+C:\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\VendaWebMVC.runtimeconfig.dev.json
+C:\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\VendaWebMVC.dll
+C:\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\VendaWebMVC.pdb
+C:\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\VendaWebMVC.Views.dll
+C:\VendaWebMVC\VendaWebMVC\bin\Debug\netcoreapp2.1\VendaWebMVC.Views.pdb
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.csproj.AssemblyReference.cache
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.AssemblyInfoInputs.cache
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.AssemblyInfo.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.csproj.CoreCompileInputs.cache
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.RazorAssemblyInfo.cache
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.RazorAssemblyInfo.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.TagHelpers.input.cache
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.TagHelpers.output.cache
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.RazorCoreGenerate.cache
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Create.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Delete.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Details.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Edit.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Index.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistroVendas\BuscaAgrupada.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistroVendas\BuscaSimples.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\RegistroVendas\Index.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Vendedores\Create.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Vendedores\Delete.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Vendedores\Detalhe.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Vendedores\Editar.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Vendedores\Index.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.RazorTargetAssemblyInfo.cache
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.RazorTargetAssemblyInfo.cs
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.Views.pdb
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.dll
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.pdb
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.genruntimeconfig.cache
+C:\VendaWebMVC\VendaWebMVC\obj\Debug\netcoreapp2.1\VendaWebMVC.csproj.CopyComplete
